@@ -1,1 +1,1 @@
-let name = object;
+let name = json;
